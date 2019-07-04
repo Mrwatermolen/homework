@@ -1,0 +1,5 @@
+Morse	KEYWORD1
+dash	KEYWORD2
+dot	KEYWORD2
+c_time      KEYWORD2
+w_time      KEYWORD2
