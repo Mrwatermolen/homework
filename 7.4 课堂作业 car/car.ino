@@ -21,6 +21,7 @@ void loop()
       case 'b':backward();break;
       case 'l':left();break;
       case 'r':right();break;
+	  case 's':stop();break;
     }
   }
   
@@ -61,4 +62,12 @@ void forward()
   digitalWrite(10,LOW);
 }
 
+
+void stop()
+{
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+}
   
