@@ -4,11 +4,11 @@
 ## 第一天
  ·github的使用
  ·Arduino的安装
-  ![Arduino](..\arduino.png)
+  ![Arduino](.\arduino.png)
   ·Fritzing的安装
-  ![](..\fritzing.png)  
+  ![](.\fritzing.png)  
   ·processing的安装
-  ![](..\processing.png)
+  ![](.\processing.png)
   ·Linux的安装
 
 ## 第二天
@@ -137,7 +137,7 @@ void loop()
 ·示例为小车行驶方向的控制
 
 电路图
-   ![](F:\学校\开源硬件\work\7.4课堂作业car\car.png)
+   ![](.\7.4课堂作业car\car.png)
 car.ino
 ```
 // f 前进 b后退 l左转 r右转 s停止
@@ -217,7 +217,7 @@ void stop()
 ·示例为七段显示器使用
 
 电路图
-   ![](F:\学校\开源硬件\work\7.4七段显示器\2019.png)
+   ![](.\7.4七段显示器\2019.png)
 
 code.ino
 ```
@@ -259,7 +259,7 @@ void loop()
 ##第四天
 ·多位数的显示
 电路图
-   ![](F:\学校\开源硬件\work\7.5多位数显示\2019.png)
+   ![](.\7.5多位数显示\2019.png)
 code.ino
 ```
 void setup()
