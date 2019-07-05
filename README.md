@@ -4,11 +4,11 @@
 ## 第一天
  ·github的使用
  ·Arduino的安装
-  ![Arduino](F:\学校\开源硬件\arduino.png)
+  ![Arduino](..\arduino.png)
   ·Fritzing的安装
-  ![](F:\学校\开源硬件\fritzing.png)  
+  ![](..\fritzing.png)  
   ·processing的安装
-  ![](F:\学校\开源硬件\processing.png)
+  ![](..\processing.png)
   ·Linux的安装
 
 ## 第二天
