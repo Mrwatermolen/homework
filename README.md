@@ -217,7 +217,7 @@ void stop()
 ·示例为七段显示器使用
 
 电路图
-   ![](https://github.com/Mrwatermolen/homework/blob/master/7.4%E4%B8%83%E6%AE%B5%E6%98%BE%E7%A4%BA%E5%99%A8/2019.png)
+   ![](https://github.com/Mrwatermolen/homework/blob/master/7.4七段显示器/2019.png)
 
 code.ino
 ```
